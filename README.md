@@ -1,4 +1,4 @@
-# Welcome to NextJs App
+# React Native App
 
 
 ## Sticker Smash
